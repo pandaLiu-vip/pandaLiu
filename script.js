@@ -62,8 +62,8 @@ filterButtons.forEach((button) => {
       if (isVisible) visibleCount += 1;
     });
     filterStatus.textContent = filter === 'all'
-      ? '共 3 个开发方向，具体项目案例将持续补充。'
-      : `${button.textContent}：${visibleCount} 个开发方向，具体项目案例待补充。`;
+      ? `共 ${visibleCount} 个代表项目；量化成果沿用简历口径。`
+      : `${button.textContent}：${visibleCount} 个项目；量化成果沿用简历口径。`;
     updateScrollProgress();
   });
 });
