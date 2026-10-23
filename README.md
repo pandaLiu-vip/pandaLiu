@@ -6,7 +6,7 @@
 
 我的实践横跨企业业务系统、金融科技、工业物联网和 AI 应用，目前也通过 **Codex** 开展数字化工厂、数字孪生与 ESP32 开发。
 
-[个人档案网站](https://pandaliu-vip.github.io/pandaLiu/) · [GitHub 主页](https://github.com/pandaLiu-vip) · [档案源代码](https://github.com/pandaLiu-vip/pandaLiu)
+[个人档案网站](https://pandaliu-vip.github.io/pandaLiu/) · [AI 开发协作档案](AI_PROFILE.md) · [GitHub 主页](https://github.com/pandaLiu-vip) · [档案源代码](https://github.com/pandaLiu-vip/pandaLiu)
 
 ## 技术能力
 
@@ -92,6 +92,7 @@ Pages 已配置为使用 GitHub Actions；后续推送到 `main` 会自动更新
 | [styles.css](styles.css) | 主题配色、排版、移动端布局 |
 | [script.js](script.js) | 分类筛选、手机导航、阅读进度 |
 | [README.md](README.md) | GitHub 仓库首页介绍 |
+| [AI_PROFILE.md](AI_PROFILE.md) | 可跨项目引用的精简技术背景与 AI 协作约定 |
 
 更新项目卡片时同步维护这份 README 的代表项目，保持网页与仓库首页内容一致。原始简历 PDF 作为本地内容参考，不随站点发布。
 
